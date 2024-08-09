@@ -6,7 +6,8 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc4b08&random=false&width=435&lines=Systems+Engineering+Student" alt="Typing SVG" /></a></h3>
 
 ## 👨🏻‍💻 &nbsp;About Me
--🏫 I am a student at the Universidad Peruana de Ciencias Aplicadas.
+
+- :🏫 I am a student at the Universidad Peruana de Ciencias Aplicadas.
 
 -🔍 I love diving deep into topics to understand and apply them effectively.
 
