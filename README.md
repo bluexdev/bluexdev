@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Carlos+Alvarez!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Carlos+Alvarez!;&color=fc4b08" />
 </h1>
 <img align="center" width="100%" src="https://i.ibb.co/98DzyKD/dfhe6nt-8a5f142e-52e8-4e62-a1bd-d491b88b061f.gif">
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39ff14&random=false&width=435&lines=Systems+Engineering+Student" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc4b08&random=false&width=435&lines=Systems+Engineering+Student" alt="Typing SVG" /></a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
