@@ -9,21 +9,21 @@
 
 - 🏫 I am a student at the Universidad Peruana de Ciencias Aplicadas.
 
--🔍 I love diving deep into topics to understand and apply them effectively.
+- 🔍 I love diving deep into topics to understand and apply them effectively.
 
--💻 I am passionate about cybersecurity and software development.
+- 💻 I am passionate about cybersecurity and software development.
 
--🧑‍💻 I enjoy keeping up with the latest technologies, whether through videos, blogs, articles, or social media.
+- 🧑‍💻 I enjoy keeping up with the latest technologies, whether through videos, blogs, articles, or social media.
 
--🛠️ Currently exploring Docker and containerization for efficient software deployment.
+- 🛠️ Currently exploring Docker and containerization for efficient software deployment.
 
--🤓 I am always learning new things and continuously improving my skills.
+- 🤓 I am always learning new things and continuously improving my skills.
 
--🚀 I believe in solving problems with innovative and practical solutions.
+- 🚀 I believe in solving problems with innovative and practical solutions.
 
--🕵️‍♂️ I am a persistent researcher, always seeking solutions and drawing my own conclusions when needed.
+- 🕵️‍♂️ I am a persistent researcher, always seeking solutions and drawing my own conclusions when needed.
 
--🤔 I am currently open to new job opportunities where I can demonstrate my talent and contribute with my work.
+- 🤔 I am currently open to new job opportunities where I can demonstrate my talent and contribute with my work.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
