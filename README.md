@@ -5,6 +5,25 @@
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=fc4b08&random=false&width=435&lines=Systems+Engineering+Student" alt="Typing SVG" /></a></h3>
 
+## 👨🏻‍💻 &nbsp;About Me
+🏫 I am a student at the Universidad Peruana de Ciencias Aplicadas.
+
+🔍 I love diving deep into topics to understand and apply them effectively.
+
+💻 I am passionate about cybersecurity and software development.
+
+🧑‍💻 I enjoy keeping up with the latest technologies, whether through videos, blogs, articles, or social media.
+
+🛠️ Currently exploring Docker and containerization for efficient software deployment.
+
+🤓 I am always learning new things and continuously improving my skills.
+
+🚀 I believe in solving problems with innovative and practical solutions.
+
+🕵️‍♂️ I am a persistent researcher, always seeking solutions and drawing my own conclusions when needed.
+
+🤔 I am currently open to new job opportunities where I can demonstrate my talent and contribute with my work.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/bluexdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bluexdev" height="30" width="40" /></a>
