@@ -7,7 +7,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- :🏫 I am a student at the Universidad Peruana de Ciencias Aplicadas.
+- 🏫 I am a student at the Universidad Peruana de Ciencias Aplicadas.
 
 -🔍 I love diving deep into topics to understand and apply them effectively.
 
