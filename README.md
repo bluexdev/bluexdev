@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Alvarez</h1>
-<img align="center" width="100%" src="[https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif](https://ibb.co/DVJswcJ)">
+<img align="center" width="100%" src="https://i.ibb.co/98DzyKD/dfhe6nt-8a5f142e-52e8-4e62-a1bd-d491b88b061f.gif">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
